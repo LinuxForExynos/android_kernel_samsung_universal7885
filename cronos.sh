@@ -23,8 +23,8 @@ CR_DTS=arch/arm64/boot/dts
 CR_DTB=$CR_DIR/boot.img-dtb
 # Kernel Variables
 CR_VERSION=V1.0
-CR_NAME=LinuxForExynos-7885
-CR_JOBS=256
+CR_NAME=Quantum_pie
+CR_JOBS=5
 CR_ANDROID=p
 CR_PLATFORM=9.0.0
 CR_ARCH=arm64
